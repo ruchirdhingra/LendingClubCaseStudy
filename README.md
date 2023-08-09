@@ -34,7 +34,7 @@ People having lower income and opted for 60 months tenure tend much more to defa
 
 
 ## Technologies Used
-- Nnumpy - version 1.25.0
+- Numpy - version 1.25.0
 - Pandas - version 1.5.3
 - matplotlib - version 3.7.0
 - seaborn - version 0.12.2
